@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Take It Easy (Live On MTV, 1994)",
+  "base_artist": "Eagles",
+  "createdAt": "2026-02-24T13:58:21.565163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take It Easy (Live on MTV, 1994)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/01_Take_It_Easy_(Live_on_MTV,_1994)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take It Easy - Live On MTV, 1994",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/02_Take_It_Easy_-_Live_On_MTV,_1994_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take It Easy (Live On MTV, 1994) (Remaster 2018)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/03_Take_It_Easy_(Live_On_MTV,_1994)_(Remaster_2018)_Eagles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take It Easy (Live On MTV/1994)",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/pl_01_Take_It_Easy_(Live_On_MTV_1994)_Eagles.txt"
+    }
+  ]
+}
